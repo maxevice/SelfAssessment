@@ -1,42 +1,42 @@
 ## JavaScript
 
 - Language
-  - `Object` *
-  - `Function` *
-  - `Boolean` *
-  - `Number` *
-  - `BigInt` +
-  - `String` *
-  - `Symbol` *
-  - `Infinity` ~
-  - `NaN` *
-  - `undefined` *
-  - `null` *
-  - `this` ~
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 👂 heard
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 👂 heard
   - `instanceof`
-  - `...spread` *
-  - `...rest` *
-  - `typeof` *
-  - Destructuring ~
-  - Generators ~
-  - Iterators ~
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
+  - Destructuring: 👂 heard
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
-  - Chaining *
+  - Chaining: 🖐️ used
   - Optional chaining
   - IIFE
   - Async IIFE
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters ~
+  - Getters and setters: 👂 heard
   - `__proto__`
-  - `prototype` *
-  - Equality operators *
-  - Logical operators *
+  - `prototype`: 🖐️ used
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator *
+  - Ternary operator: 🖐️ used
   - `void`
   - `yield`
   - `await`
@@ -59,40 +59,40 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` *
-  - `while` *
-  - `do..while` *
-  - `for` *
-  - `for..in` *
-  - `for..of` *
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw` *
-  - `break` *
-  - `continue` *
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
   - `import`
   - `export`
   - `label`
-  - `try..catch` *
-  - `switch` +
-  - `class` ~
+  - `try..catch`: 🖐️ used
+  - `switch`: 🎓 known
+  - `class`: 👂 heard
   - `extends`
   - `with`
-  - `new` *
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function *
-  - Async function ~
-  - Function declaration *
-  - Function expression *
-  - Default parameters *
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array` *
-  - `Map` +
-  - `Set` *
+  - `Array`: 🖐️ used
+  - `Map`: 🎓 known
+  - `Set`: 🖐️ used
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -102,7 +102,7 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math` *
+  - `Math`: 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
@@ -111,12 +111,12 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console` *
+  - `console`: 🖐️ used
   - Timers
 - Infrastructure
   - V8
   - Node.js
-  - npm *
-  - prettier *
-  - MDN *
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39
