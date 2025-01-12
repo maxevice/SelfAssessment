@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop ~
+  - `try..catch` ~`
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -19,21 +19,21 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread ~
+  - Process 
 - Async contracts
-  - Callbacks
+  - Callbacks ~
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await *
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
-  - Coroutine
+  - Event ~
+  - Coroutine ~
   - Goroutine
   - Signal
   - Stream

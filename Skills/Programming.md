@@ -4,27 +4,27 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm *
+  - Syntax *
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Abstraction ~
+  - Paradigm ~
+  - Programm *
+  - Programming paradigm ~
+  - Programming language *
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module ~
+  - Library *
+  - Package ~
   - Component
-  - Framework
+  - Framework ~
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
   - Software engineering
-  - Decomposition
+  - Decomposition *
   - Control flow
   - Data flow
   - Code reuse
@@ -32,35 +32,35 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value *
+  - Identifier *
+  - Variable *
+  - Constant *
   - Scalar
   - Literal
-  - Expression
+  - Expression *
   - Heap
-  - Function
+  - Function *
   - Procedure
-  - Method
-  - Class
+  - Method *
+  - Class *
   - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
+  - Event ~
+  - Type *
+  - Flag *
+  - Lexical scope *
   - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
+  - Conditions *
+  - Loops *
+  - Assignment *
+  - Regular expression *
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
+  - Naming conventions *
+  - Coding conventions ~
+  - Camel case ~
+  - Snake case *
   - Kebab case
   - Trailing commas
   - Return early
@@ -82,18 +82,18 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument *
+  - Parameter *
   - Pure function
-  - Lambda expression
+  - Lambda expression *
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion +
   - Tail call optimisation
-  - Callback
+  - Callback ~
   - Listener
   - Composition
   - Pipe
@@ -102,23 +102,23 @@
   - Functor
   - Monad
   - Monoid
-  - Generator
-  - Coroutine
+  - Generator ~
+  - Coroutine ~
 - Data structures
-  - Array
+  - Array *
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object +
   - Collection
-  - Set
+  - Set *
   - Hash table
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
+  - Queue ~
   - Stack
   - Deque
   - Tree
@@ -126,9 +126,9 @@
   - Iterator
   - Mutable state
   - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Serialization *
+  - String parsing *
+  - JSON *
   - JSON5
   - YAML
 - Networking
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler ~
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,20 +152,20 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime ~
+  - Virtual machine *
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger ~
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
+  - Code review ~
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git ~
+  - Github ~
   - Docker
   - Kubernetes
   - GCC
@@ -214,15 +214,15 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux ~
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS ~
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII ~
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 *
   - W3C
   - ODMG
