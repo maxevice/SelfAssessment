@@ -12,7 +12,7 @@
   - Programm *
   - Programming paradigm ~
   - Programming language *
-  - Contract
+  - Contract ~
   - Module ~
   - Library *
   - Package ~
@@ -27,29 +27,29 @@
   - Decomposition *
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse *
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) *
   - KISS principle
 - Syntax and concepts
   - Value *
   - Identifier *
   - Variable *
   - Constant *
-  - Scalar
-  - Literal
+  - Scalar *
+  - Literal *
   - Expression *
   - Heap
   - Function *
-  - Procedure
+  - Procedure ~
   - Method *
   - Class *
-  - Prototype
+  - Prototype *
   - Event ~
   - Type *
   - Flag *
   - Lexical scope *
-  - Code block
+  - Code block *
   - Conditions *
   - Loops *
   - Assignment *
@@ -58,12 +58,12 @@
   - Namespaces
   - Call stack
   - Naming conventions *
-  - Coding conventions ~
-  - Camel case ~
+  - Coding conventions *
+  - Camel case *
   - Snake case *
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early *
   - Fail-fast
 - Types
   - Primitive types
@@ -81,13 +81,13 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
+  - Signature ~
   - Argument *
   - Parameter *
-  - Pure function
+  - Pure function ~
   - Lambda expression *
   - Side effects
-  - Closure
+  - Closure ~
   - Partial application
   - Currying
   - Higher order
@@ -95,8 +95,8 @@
   - Tail call optimisation
   - Callback ~
   - Listener
-  - Composition
-  - Pipe
+  - Composition ~
+  - Pipe ~
   - Memoize
   - Wrapper
   - Functor
@@ -111,21 +111,21 @@
   - Enum
   - Instance
   - Object +
-  - Collection
+  - Collection *
   - Set *
-  - Hash table
-  - Linked list
+  - Hash table *
+  - Linked list ~
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue ~
-  - Stack
+  - Stack ~
   - Deque
   - Tree
   - Graph
   - Iterator
-  - Mutable state
-  - Immutable state
+  - Mutable state +
+  - Immutable state +
   - Serialization *
   - String parsing *
   - JSON *
@@ -160,19 +160,19 @@
   - Debugger ~
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review ~
+  - Refactoring *
+  - Code review *
   - Exception
   - Unittesting
-  - git ~
-  - Github ~
+  - git *
+  - Github *
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers +
+  - Hard code +
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -182,11 +182,11 @@
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code
+  - Unreachable code +
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops +
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
