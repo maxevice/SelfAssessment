@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types 
+  - Data types
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -36,13 +36,13 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` *
-  - `INSERT` *
-  - `UPDATE` *
-  - `DELETE` *
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` *
+  - `ORDER BY`: 🖐️ used
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
@@ -52,11 +52,11 @@
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE` *
+  - `WHERE`: 🖐️ used
   - `LIKE`
-  - `IN` *
+  - `IN`: 🖐️ used
   - `BETWEEN`
-  - `CREATE TABLE` *
+  - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`
   - `DROP TABLE`
   - `PRIMARY KEY`
@@ -81,7 +81,7 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite *
+  - SQLite: 🖐️ used
   - DynamoDB
   - Firebase
 - Data engineering

@@ -4,66 +4,66 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm *
-  - Syntax *
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
-  - Abstraction ~
-  - Paradigm ~
-  - Programm *
-  - Programming paradigm ~
-  - Programming language *
-  - Contract
-  - Module ~
-  - Library *
-  - Package ~
+  - Abstraction: 👂 heard
+  - Paradigm: 👂 heard
+  - Programm: 🖐️ used
+  - Programming paradigm: 👂 heard
+  - Programming language: 🖐️ used
+  - Contract: 👂 heard
+  - Module: 👂 heard
+  - Library: 🖐️ used
+  - Package: 👂 heard
   - Component
-  - Framework ~
+  - Framework: 👂 heard
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
   - Software engineering
-  - Decomposition *
+  - Decomposition: 🖐️ used
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse: 🖐️ used
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle
 - Syntax and concepts
-  - Value *
-  - Identifier *
-  - Variable *
-  - Constant *
-  - Scalar
-  - Literal
-  - Expression *
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function *
-  - Procedure
-  - Method *
-  - Class *
-  - Prototype
-  - Event ~
-  - Type *
-  - Flag *
-  - Lexical scope *
-  - Code block
-  - Conditions *
-  - Loops *
-  - Assignment *
-  - Regular expression *
+  - Function: 🖐️ used
+  - Procedure: 👂 heard
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 🖐️ used
+  - Event: 👂 heard
+  - Type: 🖐️ used
+  - Flag: 🖐️ used
+  - Lexical scope: 🖐️ used
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
+  - Regular expression: 🖐️ used
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions *
-  - Coding conventions ~
-  - Camel case ~
-  - Snake case *
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
   - Primitive types
@@ -81,54 +81,54 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument *
-  - Parameter *
-  - Pure function
-  - Lambda expression *
+  - Signature: 👂 heard
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 👂 heard
+  - Lambda expression: 🖐️ used
   - Side effects
-  - Closure
+  - Closure: 👂 heard
   - Partial application
   - Currying
   - Higher order
-  - Recursion +
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback ~
+  - Callback: 👂 heard
   - Listener
-  - Composition
-  - Pipe
+  - Composition: 👂 heard
+  - Pipe: 👂 heard
   - Memoize
   - Wrapper
   - Functor
   - Monad
   - Monoid
-  - Generator ~
-  - Coroutine ~
+  - Generator: 👂 heard
+  - Coroutine: 👂 heard
 - Data structures
-  - Array *
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object +
-  - Collection
-  - Set *
-  - Hash table
-  - Linked list
+  - Object: 🎓 known
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
+  - Hash table: 🖐️ used
+  - Linked list: 👂 heard
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue ~
-  - Stack
+  - Queue: 👂 heard
+  - Stack: 👂 heard
   - Deque
   - Tree
   - Graph
   - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization *
-  - String parsing *
-  - JSON *
+  - Mutable state: 🎓 known
+  - Immutable state: 🎓 known
+  - Serialization: 🖐️ used
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler ~
+  - Compiler: 👂 heard
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,27 +152,27 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime ~
-  - Virtual machine *
+  - Runtime: 👂 heard
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger ~
+  - Debugger: 👂 heard
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review ~
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
   - Exception
   - Unittesting
-  - git ~
-  - Github ~
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -182,11 +182,11 @@
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code
+  - Unreachable code: 🎓 known
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops: 🎓 known
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -214,15 +214,15 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux ~
+  - Linux: 👂 heard
   - Unix
   - BSD
-  - MacOS ~
-  - Windows *
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII ~
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8 *
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
